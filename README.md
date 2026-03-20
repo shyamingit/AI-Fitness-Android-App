@@ -20,13 +20,13 @@ A personalized workout tracking Android application that helps users stay consis
 [Watch Demo](https://youtube.com/shorts/HDYqkLoFYpY?feature=share)
 
 ## 📸 Screenshs
-(https://raw.githubusercontent.com/shyamingit/AI-Fitness-Android-App/main/screenshot1.jpeg)
-(https://raw.githubusercontent.com/shyamingit/AI-Fitness-Android-App/main/screenshot2.jpeg)
-(https://raw.githubusercontent.com/shyamingit/AI-Fitness-Android-App/main/screenshot3.jpeg)
-(https://raw.githubusercontent.com/shyamingit/AI-Fitness-Android-App/main/screenshot4.jpeg)
-(https://raw.githubusercontent.com/shyamingit/AI-Fitness-Android-App/main/screenshot5.jpeg)
-(https://raw.githubusercontent.com/shyamingit/AI-Fitness-Android-App/main/screenshot6.jpeg)
-(https://raw.githubusercontent.com/shyamingit/AI-Fitness-Android-App/main/screenshot7.jpeg)
+![Screenshot 1](https://raw.githubusercontent.com/shyamingit/AI-Fitness-Android-App/main/screenshot1.jpeg)
+![Screenshot 2](https://raw.githubusercontent.com/shyamingit/AI-Fitness-Android-App/main/screenshot2.jpeg)
+![Screenshot 3](https://raw.githubusercontent.com/shyamingit/AI-Fitness-Android-App/main/screenshot3.jpeg)
+![Screenshot 4](https://raw.githubusercontent.com/shyamingit/AI-Fitness-Android-App/main/screenshot4.jpeg)
+![Screenshot 5](https://raw.githubusercontent.com/shyamingit/AI-Fitness-Android-Ap/main/screenshot5.jpeg)
+![Screenshot 6](https://raw.githubusercontent.com/shyamingit/AI-Fitness-Android-App/main/screenshot6.jpeg)
+![Screenshot 7](https://raw.githubusercontent.com/shyamingit/AI-Fitness-Android-App/main/screenshot7.jpeg)
 
 
 ## 🔐 Note
